@@ -50,7 +50,7 @@ public class Bot extends TelegramLongPollingBot {
 	
 	@Override
 	public String getBotUsername() {
-		return "Ques Netowrk";
+		return "NAME";
 	}
 	
 	@Override
@@ -95,7 +95,7 @@ public class Bot extends TelegramLongPollingBot {
 	
 	@Override
 	public String getBotToken() {
-		return "557772051:AAGrwWG9_TFNcauKQyyzQQTtmBOt7nnEDo0";
+		return "TOKEN";
 	}
 	
 	@SuppressWarnings("deprecation")
